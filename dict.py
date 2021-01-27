@@ -3,3 +3,5 @@ menu['beshbarmak']= 135
 menu.update({'lagman':135})
 menu.pop('borsh')
 print (menu)
+
+#misaly
